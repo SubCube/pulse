@@ -1,0 +1,11 @@
+.review{
+    padding-bottom: 73px;
+    &__list{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 80px;
+    }
+    &__wrapper{
+        width: 650px;
+    }
+}
